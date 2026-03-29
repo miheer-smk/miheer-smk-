@@ -11,27 +11,3 @@ B.Tech CSE (AI/ML) at IIIT Nagpur. First-year undergrad building things at the i
 **Stack:** Python, PyTorch, OpenCV, FFmpeg, scikit-learn, Linux
 
 **Find me:** [Codeforces (1301)](https://codeforces.com/profile/Miheer.smk01) · [Credly](https://www.credly.com/users/miheer-kulkarni)
-```
-
-**Step 6** — Commit changes
-
----
-
-**Fix 3 — Pin your repos (1 minute)**
-
-Go to your profile page [github.com/miheer-smk](https://github.com/miheer-smk). You should see "Customize your pins" — click it and pin both **phantom-lens** and **phys-denoiser**. This ensures they show up first.
-
----
-
-**Fix 4 — Add topics to both repos (1 minute each)**
-
-Go to each repo → click the gear icon next to "About" (top right of repo page) → add topics:
-
-For **phantom-lens:**
-```
-deepfake-detection, computer-vision, media-forensics, pytorch, physics-informed-ai
-```
-
-For **phys-denoiser:**
-```
-image-denoising, computer-vision, pytorch, physics-informed-ai, noise-modeling
