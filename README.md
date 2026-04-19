@@ -27,7 +27,7 @@
 I'm an AI researcher interested in the intersection of **physics, cognition, and machine learning**. Most of my work tries to answer one question: *can we build models that reason from first principles rather than memorize patterns?*
 
 - 🔬 Currently researching **physics-anchored deepfake detection** (PRISM framework)
-- 🧬 Built an **agentic AI tutoring platform** with epistemic state modeling (INSOMNIA Hackathon, VNIT Nagpur)
+- 🧬 Built an **agentic AI tutoring platform** with epistemic state modeling
 - 📷 Interested in sensor physics, noise modeling, and interpretable computer vision
 - 🎓 Based at **IIIT Nagpur**, India
 
